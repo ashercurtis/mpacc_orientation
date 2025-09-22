@@ -6,15 +6,10 @@ This repo contains materials for the UW FSB MPAcc Orientation.
 mpacc_labs_orientation/
 │
 ├── README.md #This readme file
-├── exercise1/
-│   └── data/
-│       ├── data_file1.json
-|       ├── data_file2.json
-|       ├── data_file2.json
-|       ├── data_file2.json
-|       ├── data_file2.json
-│       └── data_file2.json
-|
-└── exercise2/
+├── input_data/
+     ├── ascombes_data.csv
+     └── homework_data.csv
+
+** students are to create a folder called "my_work" in mpacc_labs_orientation/ to save their analyses.
 
 Prepared for University of Washington, Foster School of Business students enroled in the Master of Professional Accounting Program. These materials are meant for use in collaboration with software installed on the Foster Remote Labs.
