@@ -12,4 +12,4 @@ mpacc_labs_orientation/
 
 ** students are to create a folder called "my_work" in mpacc_labs_orientation/ to save their analyses.
 
-Prepared for University of Washington, Foster School of Business students enroled in the Master of Professional Accounting Program. These materials are meant for use in collaboration with software installed on the Foster Remote Labs.
+Prepared for University of Washington, Foster School of Business students enrolled in the Master of Professional Accounting Program. These materials are meant for use in collaboration with software installed on the Foster Remote Labs.
